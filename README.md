@@ -9,6 +9,7 @@ Havendo empate em medalhas de ouro e prata, fica mais bem colocado o país com m
 Se dois ou mais países empatarem nos três tipos de medalhas, seu programa deve mostrá-los em ordem alfabética.
 
 /-------------------/
+
 Considerando um N=8 e dada as seguintes informações dos países.
 
 Belgica 2 2 2
@@ -28,6 +29,7 @@ Suica 3 2 2
 Tailandia 2 2 2
  
 /-------------------/
+
 o programa deve produzir a seguinte saída
 
 Franca 10 18 14
